@@ -49,6 +49,8 @@ class Login extends React.Component{
     if(meta.status === 200 ){
       // 把token给保存到浏览器本地
       localStorage.setItem('token',data.token)
+      //把userid存储起来
+      localStorage.setItem('uid',data.uid)
       this.setState({
         uname:'',
         pwd:''
