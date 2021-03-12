@@ -49,7 +49,7 @@
     "react": "^16.9.0",
     "react-app-polyfill": "^1.0.2",
     "react-avatar-editor": "^11.0.7",
-    "react-dev-utils": "^9.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.9.0",
     "react-image-gallery": "^0.9.1",
     "react-touch-loader": "^1.1.4",
